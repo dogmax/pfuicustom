@@ -8,4 +8,4 @@ Modifies left unit text to the center of the unitframe<br>
 Modifies unitname string to abbreviated name<br>
 
 Installation:<br>
-Copy contents of "pfUI-main" into the pfUI folder in your Addons folder
+Copy contents of the "api" folder into the "api" folder in the pfUI addon
