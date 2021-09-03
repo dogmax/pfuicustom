@@ -4,7 +4,8 @@ Custom pfUI layout<br>
 
 import string located in "import.txt"
 
-Optional installation:<br>
+**Optional installation**<br>
+<br>
 Replace a font in the pfUI fonts folder with the font included in the download<br>
 
 
